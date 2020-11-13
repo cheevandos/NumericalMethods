@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\EqSystemsSolving\SteepestDescent\bin\Debug\SteepestDescent.exe.config
+C:\Users\USER\source\repos\EqSystemsSolving\SteepestDescent\bin\Debug\SteepestDescent.exe
+C:\Users\USER\source\repos\EqSystemsSolving\SteepestDescent\bin\Debug\SteepestDescent.pdb
+C:\Users\USER\source\repos\EqSystemsSolving\SteepestDescent\obj\Debug\SteepestDescent.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\EqSystemsSolving\SteepestDescent\obj\Debug\SteepestDescent.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EqSystemsSolving\SteepestDescent\obj\Debug\SteepestDescent.exe
+C:\Users\USER\source\repos\EqSystemsSolving\SteepestDescent\obj\Debug\SteepestDescent.pdb
